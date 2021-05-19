@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="CategorySpinnerArray">
+        <item>General Knowledge</item>
+        <item>Entertainment: Film</item>
+        <item>Mythology</item>
+        <item>History</item>
+        <item>Politics</item>
+        <item>Animals</item>
+    </string-array>
+</resources>
